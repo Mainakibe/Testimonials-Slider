@@ -37,6 +37,7 @@ prevBtn.addEventListener('click',function(){
     }
     slidePrev()
 })
+
 //next btn click
 nextBtn.addEventListener('click',function(){
     if(current===slider.length-1){
