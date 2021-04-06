@@ -112,18 +112,6 @@ span{
 	background-color: white;
 	overflow: hidden;
 }
-@media (max-width:375px){
-    .image-slider img{
-        width: 700px;
-        
-    }
-    .image-slider{
-        padding: 10px;
-    }
-    .icons{
-        top: 180px;
-    }
-}
 @media (min-width:768px){
     .slide{
         display: flex;
